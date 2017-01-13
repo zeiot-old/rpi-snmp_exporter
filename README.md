@@ -1,7 +1,7 @@
 # RPI Prometheus snmp exporter
 
-* Master : [![Circle CI](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/master.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/master)
-* Develop : [![Circle CI](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/develop.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/develop)
+* Master : [![Circle CI](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/master.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/master) [![Build Status](https://travis-ci.org/zeiot/rpi-snmp_exporter.svg?branch=master)](https://travis-ci.org/zeiot/rpi-snmp_exporter)
+* Develop : [![Circle CI](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/develop.svg?style=svg)](https://circleci.com/gh/zeiot/rpi-snmp_exporter/tree/develop) [![Build Status](https://travis-ci.org/zeiot/rpi-snmp_exporter.svg?branch=develop)](https://travis-ci.org/zeiot/rpi-snmp_exporter)
 
 Docker image of [Prometheus snmp exporter][] to use on a [Raspberry PI][].
 
