@@ -1,11 +1,11 @@
-# VERSION 0.1.0
+# VERSION 0.2.0
 # AUTHOR:         Nicolas Lamirault <nicolas.lamirault@gmail.com>
 # DESCRIPTION:    zeiot/rpi-snmp_exporter
 
 FROM resin/armv7hf-debian:jessie
 MAINTAINER Nicolas Lamirault <nicolas.lamirault@gmail.com>
 
-ENV SNMP_EXPORTER_VERSION 0.1.0
+ENV SNMP_EXPORTER_VERSION 0.2.0
 
 ADD https://github.com/prometheus/snmp_exporter/releases/download/v${SNMP_EXPORTER_VERSION}/snmp_exporter-${SNMP_EXPORTER_VERSION}.linux-armv7.tar.gz /snmp_exporter.tar.gz
 
